@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+body{
+    background-image: url("imagens/background.png");
+    background-repeat: no-repeat;
+    background-color: rgb(226, 222, 226);
+    margin:  10px;
+
+}
+
+h1{
+    padding: 20px;
+    margin: 20px;
+}
+
+ul{
+    padding: 20px;
+    padding-top: 5px;
+    margin: 20px;
+}
+
+
+li{
+
+    padding: 10px;
+    margin-left: 20px;
+}
+
+
+#insta{
+    
+    list-style-image: url("imagens/Insta.png");
+}
+
+
+#twitter{
+    list-style-image: url("imagens/Twitter.png");
+}
+
+
+#youtube{
+    list-style-image: url("imagens/Youtube.png");
+    
+}
